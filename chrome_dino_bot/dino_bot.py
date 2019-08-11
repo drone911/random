@@ -6,6 +6,7 @@ Created on Tue Aug  6 21:40:34 2019
 """
 
 import cv2
+import numpy as np
 from grab_screen import grab_screen
 from pynput.keyboard import Controller,Key
 import time
